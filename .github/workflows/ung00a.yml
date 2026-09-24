@@ -10,7 +10,7 @@
 # See /LICENSE for more information.
 #
 
-name: Cudy TR3000 Builder
+name: UNG00A Builder
 
 on:
   repository_dispatch:
