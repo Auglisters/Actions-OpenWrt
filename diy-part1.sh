@@ -19,6 +19,4 @@
 
 git clone https://github.com/eamonxg/luci-theme-aurora.git package/luci-theme-aurora
 git clone https://github.com/eamonxg/luci-app-aurora-config.git package/luci-app-aurora-config
-git clone https://github.com/Loong1996/ImmortalWrt-Airoha package/ImmortalWrt-Airoha
-mv package/ImmortalWrt-Airoha/packages/luci-app-airoha-npu package/
-rm -rf package/ImmortalWrt-Airoha
+git clone https://github.com/luanmuc/luci-app-airoha-npu.git package/luci-app-airoha-npu
